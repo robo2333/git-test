@@ -12,5 +12,6 @@ public class main {
         System.out.println("你好git4");
         System.out.println("你好git3");
         System.out.println("你好git5");
+        System.out.println("hot0fix test");
     }
 }
