@@ -10,6 +10,5 @@ public class main {
         System.out.println("你好");
         System.out.println("你好123");
         System.out.println("你好git4");
-        System.out.println("你好git3");
     }
 }
