@@ -14,5 +14,6 @@ public class main {
         System.out.println("你好git5");
         System.out.println("hot0fix test");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
